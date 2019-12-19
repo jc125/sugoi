@@ -1,0 +1,12 @@
+=========================
+Business problem
+=========================
+
+There are more than 1,500 coffee shops in Toronto, and the industry is all about the location.  The business problem is to identify which neighbourhoods in Toronto have a high number of parks and green spaces, but low number of cafes – leaving a potential gap in the market.   
+
+=========================
+Data 
+=========================
+
+The project will be developed using open data from Wikipedia on Toronto neighbourhoods, and FourSquare API.   
+
