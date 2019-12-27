@@ -9,6 +9,7 @@ Data
 =========================
 
 The project will be developed using:
-(a) open data from Wikipedia on Toronto neighbourhoods, containing a list of the neighbourhoods, and their longitude & latitude
-(b) FourSquare API   
+(a) open data from Wikipedia on Toronto neighbourhoods, containing a list of the neighbourhoods and their postcodes
+(b) open data containing geo-spatial data (longitude and latitude) of each postcode 
+(b) FourSquare API, containing data on venues and their geospatial location   
 
